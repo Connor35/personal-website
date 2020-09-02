@@ -48,10 +48,10 @@ function App() {
             {/*eslint-disable-next-line */}
             <h1><a name="to_about">Hello!</a></h1>
             <p>
-            My name is Connor Whitbey, and I'm a Computer Science student from Portland, Oregon. You can find links to my GitHub, LinkedIn, and Email accounts at the bottom of the page.
+            My name is Connor Whitbey, and I'm a Computer Science student from Portland, Oregon. I created this website to learn ReactJS. You can find links to my GitHub, LinkedIn, and Email accounts at the bottom of the page.
             </p>
             <p>
-            As a student at Oregon State University, I've thoroughly enjoyed the process of learning software development. From operating systems to analysis of algorithms, each subject has captured my interest in a different way. I'm excited to join the software industry after my graduation in June 2021. 
+            As a student at Oregon State University, I've thoroughly enjoyed the process of learning software development. From operating systems to analysis of algorithms, each subject has captured my interest in a different way. I'm excited to join the software industry after my graduation in June 2021.
             </p>
         </div>
 
