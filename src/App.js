@@ -46,12 +46,12 @@ function App() {
         <a href="#to_about"></a>
         <div id="bio">
             {/*eslint-disable-next-line */}
-            <h1><a name="to_about">Hello!</a></h1>
+            <h1><a name="to_about">Pathways to OSU Blockchain Senior Project</a></h1>
             <p>
-            TEST TEST My name is Connor Whitbey, and I'm a Computer Science student from Portland, Oregon. I created this website to learn ReactJS. You can find links to my GitHub, LinkedIn, and Email accounts at the bottom of the page.
+            Hi, my name is Connor and I worked on a project called Pathways to OSU Blockchain. Our project partner wanted to investigate the merits of blockchain as a possible solution to the problem faced by many first-generation and underprivileged students who may lack the resources and knowledge needed to succeed. The goal of this project is to leverage blockchain technology to create a new system for helping students on their education journey. We utilized Hyperleder Fabric and IBM’s Blockchain platform to create a prototype which demonstrates how this kind of system could work. Our prototype provides a web application front-end for students and institutions to use, which communicates through a server to the blockchain backend. Blockchain is used because it has the power to connect students across many different institutions. The system uses smart contracts to facilitate a notification system that alerts students with events and clubs they may be interested in, as well as provide them with updates and check-ins to ensure they are on track to reach their education goals.
             </p>
             <p>
-            As a student at Oregon State University, I've thoroughly enjoyed the process of learning software development. From operating systems to analysis of algorithms, each subject has captured my interest in a different way. I'm excited to join the software industry after my graduation in June 2021.
+            More information can be found in my Github (link at the bottom of this page).
             </p>
         </div>
 
